@@ -1,0 +1,10 @@
+/Users/marioanorganism/Documents/Hacking/DotnetConsoleTut/bin/Debug/netcoreapp2.0/DotnetConsoleTut.deps.json
+/Users/marioanorganism/Documents/Hacking/DotnetConsoleTut/bin/Debug/netcoreapp2.0/DotnetConsoleTut.runtimeconfig.json
+/Users/marioanorganism/Documents/Hacking/DotnetConsoleTut/bin/Debug/netcoreapp2.0/DotnetConsoleTut.runtimeconfig.dev.json
+/Users/marioanorganism/Documents/Hacking/DotnetConsoleTut/bin/Debug/netcoreapp2.0/DotnetConsoleTut.dll
+/Users/marioanorganism/Documents/Hacking/DotnetConsoleTut/bin/Debug/netcoreapp2.0/DotnetConsoleTut.pdb
+/Users/marioanorganism/Documents/Hacking/DotnetConsoleTut/obj/Debug/netcoreapp2.0/DotnetConsoleTut.csproj.CoreCompileInputs.cache
+/Users/marioanorganism/Documents/Hacking/DotnetConsoleTut/obj/Debug/netcoreapp2.0/DotnetConsoleTut.AssemblyInfoInputs.cache
+/Users/marioanorganism/Documents/Hacking/DotnetConsoleTut/obj/Debug/netcoreapp2.0/DotnetConsoleTut.AssemblyInfo.cs
+/Users/marioanorganism/Documents/Hacking/DotnetConsoleTut/obj/Debug/netcoreapp2.0/DotnetConsoleTut.dll
+/Users/marioanorganism/Documents/Hacking/DotnetConsoleTut/obj/Debug/netcoreapp2.0/DotnetConsoleTut.pdb
